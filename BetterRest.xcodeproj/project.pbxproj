@@ -15,7 +15,7 @@
 		3124FA1E254B6928006AF67B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3124FA1C254B6928006AF67B /* LaunchScreen.storyboard */; };
 		3124FA29254B6928006AF67B /* BetterRestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3124FA28254B6928006AF67B /* BetterRestTests.swift */; };
 		3124FA34254B6928006AF67B /* BetterRestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3124FA33254B6928006AF67B /* BetterRestUITests.swift */; };
-		3124FA45254B7474006AF67B /* BetterRest_1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3124FA44254B7474006AF67B /* BetterRest_1.mlmodel */; };
+		3124FA45254B7474006AF67B /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 3124FA44254B7474006AF67B /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		3124FA2F254B6928006AF67B /* BetterRestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BetterRestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3124FA33254B6928006AF67B /* BetterRestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestUITests.swift; sourceTree = "<group>"; };
 		3124FA35254B6928006AF67B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3124FA44254B7474006AF67B /* BetterRest_1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = BetterRest_1.mlmodel; sourceTree = "<group>"; };
+		3124FA44254B7474006AF67B /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +107,7 @@
 				3124FA17254B6928006AF67B /* Assets.xcassets */,
 				3124FA1C254B6928006AF67B /* LaunchScreen.storyboard */,
 				3124FA1F254B6928006AF67B /* Info.plist */,
-				3124FA44254B7474006AF67B /* BetterRest_1.mlmodel */,
+				3124FA44254B7474006AF67B /* SleepCalculator.mlmodel */,
 				3124FA19254B6928006AF67B /* Preview Content */,
 			);
 			path = BetterRest;
@@ -269,7 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3124FA45254B7474006AF67B /* BetterRest_1.mlmodel in Sources */,
+				3124FA45254B7474006AF67B /* SleepCalculator.mlmodel in Sources */,
 				3124FA12254B6925006AF67B /* AppDelegate.swift in Sources */,
 				3124FA14254B6925006AF67B /* SceneDelegate.swift in Sources */,
 				3124FA16254B6925006AF67B /* ContentView.swift in Sources */,
